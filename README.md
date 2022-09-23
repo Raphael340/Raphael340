@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mike Raphael oluoch</h1>
+<h1 align="center">Hi 👋, I'm Mike Raphael Oluoch</h1>
 <h3 align="center">A passionate mobile developer from Kenya</h3>
 <img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPDutTVPa6nDOASI4rXp-L3YwlLYcZjXmAm-xaqYnRnf8vNKnMueAlAkpkbysUvgi5NU&usqp=CAU">
 
